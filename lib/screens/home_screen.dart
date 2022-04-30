@@ -408,7 +408,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                             .bestsellerList![index]
                                             .image!));
                                   }),
-                            ),*/
+                            ),*/ //TODO I WAS NOT GETTING DATA OF TRENDING_CATEGORY SO I DIDN'T IMPLEMENTED IT
                           ],
                         ),
                       ),
