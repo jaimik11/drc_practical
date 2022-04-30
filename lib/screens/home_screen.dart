@@ -97,7 +97,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         children: imgList.map((url) {
                           int index = imgList.indexOf(url);
                           return Container(
-                              width: _current == index ? 25 : 8.0,
+                              width: _current == index ? 35 : 15.0,
                               height: 8.0,
                               decoration: BoxDecoration(
                                   borderRadius: BorderRadius.circular(15.0)),
